@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Smart Med Guide",
+  "description": "AI-powered medicine instruction assistant with voice playback.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
